@@ -1,0 +1,13 @@
+# 個人の希望条件(ひな形 criteria.example.md をコピーして使う)
+/criteria.md
+
+# 自治体ごとに取得した保育園などの情報(使う人の手元にだけ置く)
+/local/
+
+# 物件ごとの資料・報告(図面、重要事項説明書、メール案など)
+/properties/
+
+# macOS / Python
+.DS_Store
+__pycache__/
+*.pyc
